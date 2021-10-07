@@ -1,0 +1,11 @@
+seaborn
+bokeh
+jupyter
+pandas
+matplotlib
+scipy
+numpy
+mypy
+flake8
+black
+isort
